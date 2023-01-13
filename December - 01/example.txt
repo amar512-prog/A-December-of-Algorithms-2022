@@ -1,0 +1,19 @@
+The ``python3_amaragn2385`` module
+======================
+
+Using ``fun1``
+-------------------
+
+This is an example text file in reStructuredText format.  First import
+``fun1`` from the ``python3_amaragn2385`` module:
+
+    >>> from python3_amaragn2385 import fun1
+
+Now use it:
+
+    >>> fun1('{ 49, 6E, 76, 61, 64, 65}')
+    'Invade'
+    >>> fun1('{ 56, 6F, 75, 67, 68, 74}')
+    'Vought'
+    >>> fun1('{4D, 69, 6C, 69, 74, 61, 72, 79}')
+    'Military'

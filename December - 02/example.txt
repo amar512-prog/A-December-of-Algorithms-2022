@@ -1,0 +1,17 @@
+The ``python3_amaragn2385`` module
+======================
+
+Using ``fun2``
+-------------------
+
+This is an example text file in reStructuredText format.  First import
+``fun2`` from the ``python3_amaragn2385`` module:
+
+    >>> from python3_amaragn2385 import fun2
+
+Now use it:
+
+    >>> fun2('kipediawiae')
+    'wikipedia'
+    >>> fun2('ammargrae')
+    'grammar'
